@@ -27,7 +27,7 @@ public class CalcTest {
         assertEquals("Result - Fail", 9, 9);
       }
 	@Test	
-      public void testCalc1() {
+      public void testCalc2() {
        
 Calcmul testcalcmul = new Calcmul();
 Calculator testcaladd = new Calculator();
