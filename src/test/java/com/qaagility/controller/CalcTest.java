@@ -33,7 +33,7 @@ public class CalcTest {
 Calcmul testcalcmul = new Calcmul();
 Calculator testcaladd = new Calculator();
 
-                   assertEquals(testcalmul.mul(),18);
+                   assertEquals(testcalcmul.mul(),18);
                    assertEquals(testcaladd.add(),9);
 	
     }}
